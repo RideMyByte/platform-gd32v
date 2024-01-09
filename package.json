@@ -1,0 +1,19 @@
+{
+  "name": "framework-gd32vf103-sdk",
+  "version": "1.0.1",
+  "description": "GigaDevice GD32VF103 Platform",
+  "keywords": [
+    "framework",
+    "sdk",
+    "risc-v",
+    "gigadevice"
+  ],
+  "homepage": "https://www.riscv-mcu.com/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RideMyByte/platform-gd32v"
+  },
+  "platforms": [
+    "gd32vf103"
+  ],
+}
